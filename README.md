@@ -16,7 +16,7 @@ The log format includes log level, log time, file name, line number information,
 Support log buffer
 Support log timing to write files
 Support log instant write file
-Support per log file
+Support daily log files
 Support file compression and packaging
 
 
@@ -31,7 +31,7 @@ C++标准库输出格式日志
 支持日志缓冲区
 支持日志定时写入文件
 支持日志即时写入文件
-支持每日志文件
+支持每日日志文件
 支持文件压缩打包
 
 
