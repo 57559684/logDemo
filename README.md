@@ -19,6 +19,8 @@ Support log instant write file
 Support daily log files
 Support file compression and packaging
 
+Author: 57559684 2023-1-10
+If you have problems using this log library, you can send an email to <57559684@qq.com>
 
 功能介绍：
 Win平台日志功能
